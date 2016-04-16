@@ -1,0 +1,28 @@
+name: theroadlextravels
+favicon: null
+layout_spectrum: 0.8742999078240246
+typography_spectrum: 0.678785655181855
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4991927379742265
+  lightness: 0.6056024138815701
+  saturation: 0.9398339437320828
+  rhythmicContrast: 0.10922544728964567
+purpose: []
